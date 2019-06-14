@@ -25,3 +25,6 @@ Easy todo app
 5. Run `$ ./manage.py migrate`
 
 # 3. Lets some code!
+
+# 4. Django Rest Framework
+1. https://www.django-rest-framework.org/#installation
