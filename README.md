@@ -28,3 +28,8 @@ Easy todo app
 
 # 4. Django Rest Framework
 1. https://www.django-rest-framework.org/#installation
+
+# 5. Start with React!
+1. `$ npx create-react-app todo`
+2. Change folder name `todo` to `fronted`
+3. `$ npm start`
