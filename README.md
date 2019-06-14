@@ -23,3 +23,5 @@ Easy todo app
 3. Do your stuff in app
 4. Run `$ ./manage.py makemigrations`
 5. Run `$ ./manage.py migrate`
+
+# 3. Lets some code!
